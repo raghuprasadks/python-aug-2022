@@ -1,0 +1,15 @@
+1. Loops
+while for in 
+2. Conditional statements
+if else elif
+3. Functions
+4. User inputs
+150
+135
+...
+75
+
+
+git
+
+kaushalya.tech
