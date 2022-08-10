@@ -21,7 +21,7 @@ si=(principal*roi*time)/100
 print("Interest is ",si)
 
 """
-shopping - finding discount
+3-shopping - finding discount
 
 Following advertisement is placed in a news paper
 by a eshoppe
@@ -55,7 +55,24 @@ net_amt=purchase_amt-discount
 print("Your purchase amount is ",purchase_amt)
 print("discount is ",discount)
 print("you have to pay ",net_amt)
-
+"""
+4- Electricity bill payment
+Find the electricity bill amount based on 
+following condition
+Ask the end user to enter units cosumed
+units<=100 rate/unit = 1 RS
+units >100 <=200 rate/unit = 2 RS
+units >200 <=300 rate/unit = 3 RS
+units >300 rate/unit = 5 RS
+Calculation is cumulative
+Sample calculation
+units = 50
+amount = units*rate = 50 *1=50
+units = 150
+100*1+(150-100)*2=200
+units = 250
+100*1+(100*2)+50 *3=450
+"""
 
 
 
