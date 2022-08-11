@@ -8,7 +8,10 @@ marks.append(18)
 marks.append(21)
 marks.append(23)
 marks.append(15)
-marks.
+"""
+check for other built-in functions
+https://www.w3schools.com/python/python_lists_methods.asp
+"""
 print("marks list ",marks)
 print("list demo -get 0th element value")
 print(marks[0])
