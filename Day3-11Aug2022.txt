@@ -3,3 +3,25 @@ kaushalya.tech
 Functions/methods
 
 main
+Assignment
+1. Calculator.py program
+Write 4 functions of the caculator
+add(num1,num2)
+return total
+
+subtract(num1,num2)
+return total
+
+multiply(num1,num2)
+return total
+
+divide(num1,num2)
+return total
+
+What operation you want to do +,-,*,/
+enter num1
+enter num2
+
+
+
+
