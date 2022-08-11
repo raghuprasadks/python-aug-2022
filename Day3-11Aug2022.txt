@@ -15,6 +15,11 @@ return total
 multiply(num1,num2)
 return total
 
+
+Advanced Data types
+list,dictionary,tuple,set
+
+
 divide(num1,num2)
 return total
 
