@@ -30,3 +30,9 @@ for i in range(len(cwg2022)):
         continue
     totalgold = totalgold +cwg2022[i][2]
 print("total gold won",totalgold)
+print("Australia stat")
+
+for i in cwg2022:
+    if (i[1]=="Australia"):
+        print(i)
+

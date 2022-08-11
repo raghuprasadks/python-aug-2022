@@ -27,6 +27,16 @@ What operation you want to do +,-,*,/
 enter num1
 enter num2
 
+2. Assignment
+Refer to 
+https://www.incovid19.org/
+
+create a coronadashboard
+a. Include header (columns upto deceased)
+b. Include top 3 states
+c. diplay dashboard
+d. Display total deceased
+e. Display average deceased
 
 
 
