@@ -1,0 +1,6 @@
+List
+Agenda:
+dictionary
+string operations
+Object oriented programming
+bca2reg={100:"ravi",101,"rashmi",102:"Akash"}
