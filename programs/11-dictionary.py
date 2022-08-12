@@ -1,7 +1,7 @@
 """
 Dictionary
 """
-bca2reg={100:"ravi",101:"rashmi",102:"Akash"}
+bca2reggit={100:"ravi",101:"rashmi",102:"Akash"}
 print("bca2reg",bca2reg)
 print("value associated with key 100 ",bca2reg[100])
 bca2reg[100]="Ravi Kumar"
