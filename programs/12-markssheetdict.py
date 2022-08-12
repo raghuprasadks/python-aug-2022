@@ -17,12 +17,16 @@ for k,v in marksdict.items():
     if (total>toppermarks):
         toppermarks=total
         topper=name
-
 print("topper ",topper, "topper marks ",toppermarks)
 """
 Display - topper
 subjectwise topper
 """
+"""
+list slicing
+"""
 lst=[20,30,40,50]
 lst1 =lst[1:3]
 print("lst 1",lst1)
+lst2=lst[1:4]
+print("lst 2",lst2)
