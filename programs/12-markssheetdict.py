@@ -10,10 +10,12 @@ print("Total marks of every student")
 
 for k,v in marksdict.items():
     print("key ",k," value ",v)
-    total = 0
-    name=""
+    name = v[0]
+    total = v[1]+v[2]+v[3]
+
+    """
     for m in v:
         name=v[0]
         total = v[1]+v[2]+v[3]
-
+    """
     print(name,total)
