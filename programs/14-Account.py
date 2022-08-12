@@ -57,8 +57,10 @@ print("Your balance after withdraw of 5k ",balance1)
 info1= act1.info()
 print("account info ",info1)
 act2 = Account()
+
 actno2 = act2.openAccount("Ganesh",9845547472,"Jayanagar","aadhar number 393933994")
-print("Your account number is -2",actno2)
+act2.accountnumber=actno1+1
+print("Your account number is -2",act2.accountnumber)
 
 
 
