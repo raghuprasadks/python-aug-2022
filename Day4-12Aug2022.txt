@@ -11,4 +11,6 @@ ranga	20	23	18
 Display - topper
 subjectwise topper
 
+class and object
+
 
