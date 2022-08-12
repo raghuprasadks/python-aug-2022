@@ -4,3 +4,11 @@ dictionary
 string operations
 Object oriented programming
 bca2reg={100:"ravi",101,"rashmi",102:"Akash"}
+ranga	20	23	18
+101	"ravi",22,17,21
+102	"rashmi",24,18,23
+
+Display - topper
+subjectwise topper
+
+
