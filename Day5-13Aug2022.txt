@@ -89,6 +89,10 @@ bronze int
 total int
 3. Insert alleast medals for top 4 countries
 
+exception handling
+
+
+
 
 
 
