@@ -92,6 +92,8 @@ total int
 exception handling
 python 21-exception.py
 
+https://www.w3schools.com/python/python_quiz.asp
+
 
 
 
