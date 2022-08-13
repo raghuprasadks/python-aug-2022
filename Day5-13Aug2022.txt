@@ -30,3 +30,28 @@ where products.supplierid = suppliers.supplierid
 select productname,suppliername,city,country from products,suppliers
 where products.supplierid = suppliers.supplierid
 
+kaushalya.tech
+git
+9. Create student table
+
+create table student
+(
+	id int,
+	name varchar(100),
+	address varchar(200),
+	location varchar(200),
+	pincode int
+)
+10. Insert records
+insert into student values(1,'ravi','ABBS','Bengaluru',560088)
+insert into student values(2,'ramya','ABBS','Bengaluru',560088)
+insert into student values(3,'gautham','ABBS','Bengaluru',560088)
+
+11. Update record
+update student set name = 'ravi kumar' where id=1
+
+13. delete  a record
+delete from student where id = 1
+
+
+
