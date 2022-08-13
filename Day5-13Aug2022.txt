@@ -74,6 +74,21 @@ CREATE DATABASE testDB;
 SQL with python
 DBBrowser
 
+download dbbrowser for sqlite
+https://sqlitebrowser.org/dl/
+
+Using python
+1. create cwc2022.db
+2.create cwcmedal table
+having following columns
+code int primary key
+name text 
+gold int
+silver int
+bronze int
+total int
+3. Insert alleast medals for top 4 countries
+
 
 
 
