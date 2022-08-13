@@ -53,5 +53,20 @@ update student set name = 'ravi kumar' where id=1
 13. delete  a record
 delete from student where id = 1
 
+14. Table with primary key
+CREATE TABLE Persons (
+    ID int NOT NULL,
+    LastName varchar(255) NOT NULL,
+    FirstName varchar(255),
+    Age int,
+    PRIMARY KEY (ID)
+);
+
+15. Insert record having same primary key will through error
+insert into Persons values (1,'prasad','raghu',45)
+insert into Persons values (1,'rakesh','kumar',40)
+
+
+
 
 
