@@ -1,0 +1,32 @@
+1. SQL
+2. Interface python sql
+3. Drivers
+4. Exception handling
+5. File handling
+
+Databases - Oracle,mysql,mssql,postgres,db2
+,sqlite,sybase,dynamodb
+CRUD - Create,Read,Update,Delete
+search
+RDBMS - Relational DBMS
+https://www.w3schools.com/sql/
+1. Display all records of customers table
+SELECT * FROM Customers;
+2. Display customers from Germany
+SELECT * FROM Customers where country ='Germany'
+3. Display number of customers from Germany
+SELECT count(*) FROM Customers where country ='Germany'
+SELECT count(*) as cutomercount FROM Customers where country ='Germany'
+4. Display specified columns
+SELECT  CustomerName,Address,City FROM Customers where country ='Germany'
+5. display products records
+select * from products
+6. display suppliers records
+select * from suppliers
+7. Joining two tables
+select * from products,suppliers
+where products.supplierid = suppliers.supplierid
+8.display specified columns
+select productname,suppliername,city,country from products,suppliers
+where products.supplierid = suppliers.supplierid
+
