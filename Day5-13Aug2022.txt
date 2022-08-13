@@ -67,6 +67,14 @@ insert into Persons values (1,'prasad','raghu',45)
 insert into Persons values (1,'rakesh','kumar',40)
 
 
+16. Create a database
+CREATE DATABASE testDB;
+
+
+SQL with python
+DBBrowser
+
+
 
 
 
