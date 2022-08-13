@@ -94,6 +94,12 @@ python 21-exception.py
 
 https://www.w3schools.com/python/python_quiz.asp
 
+1. Write a program to print the prime numbers
+between given two numbers. You can use the user
+input to get the two numbers
+Enter the starting range 10
+Enter the ending range 20
+11,13,17,19
 
 
 
